@@ -1,0 +1,31 @@
+button{
+    color: white;
+    background-color: navy;
+
+}
+body{
+    background-image: url(/temperature.jpg);
+    background-size: cover;
+}
+p{
+    color: navy;
+}
+header{
+    color: navy;
+    font-size: large;
+    height: 200px;
+    width: 400px;
+}
+table{
+    color:navy;
+    background: none;
+    font-size: large;
+}
+.h{
+    border:1px solid white;
+    background: none;
+}
+input{
+    color: navy;
+}
+
